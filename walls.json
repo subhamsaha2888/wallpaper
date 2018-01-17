@@ -1,0 +1,40 @@
+{
+   "wallpapers": [
+      {
+         "author": "Subham Saha",
+         "url": "https://github.com/subhamsaha2888/wallpaper/blob/master/colors1.jpg",
+         "name": "Colors1",
+         "thumbnail": "https://github.com/subhamsaha2888/wallpaper/blob/master/colors1_thumb.jpg"
+      },
+      {
+         "author": "Subham Saha",
+         "url": "https://github.com/subhamsaha2888/wallpaper/blob/master/colors2.jpg",
+         "name": "Colors2",
+         "thumbnail": "https://github.com/subhamsaha2888/wallpaper/blob/master/colors2_thumb.jpg"
+      },
+      {
+         "author": "Subham Saha",
+         "url": "https://github.com/subhamsaha2888/wallpaper/blob/master/diamonds.jpg",
+         "name":" Diamonds",
+         "thumbnail": "https://github.com/subhamsaha2888/wallpaper/blob/master/diamonds_thumb.jpg"
+      },
+      {
+         "author": "Subham Saha",
+         "url": "https://github.com/subhamsaha2888/wallpaper/blob/master/landscape.jpg",
+         "name": "Landscape",
+         "thumbnail": "https://github.com/subhamsaha2888/wallpaper/blob/master/landscape_thumb.jpg"
+      },
+      {
+         "author": "Subham Saha",
+         "url": "https://github.com/subhamsaha2888/wallpaper/blob/master/owl.jpg",
+         "name": "Owl",
+         "thumbnail": "https://github.com/subhamsaha2888/wallpaper/blob/master/owl_thumb.jpg"
+      },
+      {
+         "author":"Subham Saha",
+         "url":"https://github.com/subhamsaha2888/wallpaper/blob/master/scene.jpg",
+         "name":"Scene",
+         "thumbnail":"https://github.com/subhamsaha2888/wallpaper/blob/master/scene_thumb.jpg"
+      }
+   ]
+}
